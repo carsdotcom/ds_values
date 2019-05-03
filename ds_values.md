@@ -1,7 +1,6 @@
 # Data Science Values
 
 Addhyan Pandey\
-Principle Data Scientist at Cars.com\
 apandey@cars.com
 
 
